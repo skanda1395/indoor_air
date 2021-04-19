@@ -5992,6 +5992,8 @@ Fact Area
   align-items: center;
   position: relative;
   top: -60px;
+  max-width: 700px;
+  margin: 0 auto;
 }
 .cta-area .cta-wrapper .left-content {
   margin-right: 30px;
