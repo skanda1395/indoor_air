@@ -1263,7 +1263,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 }
 
 .service-more .duct_clean_bef_aft_img {
-  max-height: 160px;
+  max-height: 170px;
+}
+
+.service-more .dedusting_imgs img.long {
+  max-height: 350px;
 }
 
 .service-more {
@@ -2632,12 +2636,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .contact-area .right-content-area .contact-title {
   margin-bottom: 30px;
 }
-.contact-area .right-content-area .contact-form {
-  /* Base for label styling */
-  /* checkbox aspect */
-  /* checked mark aspect */
-  /* checked mark aspect changes */
-}
+
 .contact-area .right-content-area .contact-form .form-group {
   margin-bottom: 25px;
 }
@@ -3079,10 +3078,6 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .comment-form .submit-btn:hover {
   background-color: var(--secondary-color);
   color: #fff;
-}
-
-.comment-respond {
-  /*margin-top: 20px;*/
 }
 
 .comments-area .comment-list .children li:last-child {
@@ -6654,10 +6649,6 @@ Fact Area
   width: 22%;
   border-radius: 50%;
   overflow: hidden;
-}
-.testimonial-area .feedback-slider-thumb:hover {
-  opacity: 0.8;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
 .testimonial-area .customer-feedback .owl-nav [class*="owl-"] {
   position: relative;
